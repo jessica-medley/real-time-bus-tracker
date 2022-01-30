@@ -1,5 +1,14 @@
-Title of the project: Real Time Bus Tracker
-Description of the project: What does the current project do?  Include improvements you made in the description. 
-How to Run: This is information someone would use to run your project on their machine.
-Roadmap of future improvements: What additional features or functionality would be helpful to a user? 
-License information: This should include information about the MIT license. 
+Title of the project: 
+Real Time Bus Tracker
+
+Description of the project: 
+When you click 'Show stops between MIT and Harvard" you will see the bus icon move along the bus route where it stops. I updated the icon to a small bus. 
+
+How to Run: 
+Simply copy the files into one folder on your computer, then open the html file in a browser. You could also drag the html file over to the browser. Once the page loads, click on the 'Show stops between MIT and Harvard' then the bus will move!
+
+Roadmap of future improvements: 
+Expand to have multiple buse routs and a dropdown to select which bus route you want to see.
+
+License information: 
+MIT license. 
