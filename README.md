@@ -1,5 +1,7 @@
-**Real Time Bus Tracker
-**
+# Real Time Bus Tracker
+
+<img src = "https://github.com/jessica-medley/real-time-bus-tracker/blob/main/bustrackerscreenshot.png" width='300'/>
+
 Description of the project: 
 When you click 'Show stops between MIT and Harvard" you will see the bus icon move along the bus route where it stops. I updated the icon to a small bus. 
 
