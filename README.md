@@ -12,4 +12,4 @@ Simply copy the files into one folder on your computer, then open the html file 
 Expand to have multiple bus routes and a dropdown to select which bus route you want to see.
 
 ## License information: 
-MIT license. 
+[MIT license](https://github.com/jessica-medley/eye-movement/blob/main/LICENSE)
